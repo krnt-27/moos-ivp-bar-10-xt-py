@@ -1,0 +1,16 @@
+Metadata-Version: 2.4
+Name: pymoos
+Version: 2021.1
+Summary: MOOS Python Wrapper.
+Home-page: https://github.com/russkel/python-moos
+Author: Mohamed Saad Ibn Seddik
+Author-email: ms.ibnseddik@gmail.com
+License-File: LICENSE
+Provides-Extra: test
+Requires-Dist: pytest; extra == "test"
+Dynamic: author
+Dynamic: author-email
+Dynamic: home-page
+Dynamic: license-file
+Dynamic: provides-extra
+Dynamic: summary

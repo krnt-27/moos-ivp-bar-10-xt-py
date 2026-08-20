@@ -1,0 +1,4 @@
+*.jsonl
+*.json
+*.html
+!mock_data.jsonl

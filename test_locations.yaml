@@ -1,0 +1,76 @@
+# Location: {lat,lon,heading}
+ujung_timur: 
+  lat: -7.2045616
+  lon: 112.7438748
+  heading: 260.0
+
+ujung_barat: 
+  lat: -7.2053031
+  lon: 112.7401368
+  heading: 80.0
+
+parkiran_timur: 
+  lat: -7.2038721
+  lon: 112.7426021
+  heading: 260.0
+
+parkiran_barat: 
+  lat: -7.2039852
+  lon: 112.7419212
+  heading: 80.0
+
+ecw_utara: 
+  lat: -7.2028193
+  lon: 112.7422065
+  heading: 165.0
+
+ecw_selatan: 
+  lat: -7.2036017
+  lon: 112.7423198
+  heading: 350.0
+
+casa_barat: 
+  lat: -7.241604106065979
+  lon: 112.72989220580334
+  heading: 105.0
+
+casa_timur: 
+  lat: -7.241982128999947
+  lon: 112.73133411522784
+  heading: 285.0
+
+casa_dalam: 
+  lat: -7.242041840958237
+  lon: 112.73124765628464
+  heading: 5.0
+
+galangan:
+  lat: -7.203373
+  lon: 112.737978
+  heading: 165.0
+
+
+
+# NOTE:
+# init_heading = 260 # ujung timur
+# init_heading = 80  # ujung barat
+# init_heading = 165  # ECW Utara
+# init_heading = 350.0  # ECW Selatan
+# init_heading = 195.0 # CASA UTARA
+# init_heading = 5.0 # CASA SELATAN
+# init_heading = 105.0 # CASA BARAT
+# init_heading = 285.0 # CASA TIMUR
+# init_heading = 180.0  # meja ECW
+# init_heading = 259.0  # dalam timur 
+# init_heading = 81.0  # dalam barat
+# init_heading = 179.0  # dalam utara
+# init_heading = 359.0  # dalam selatan
+# init_location = [-7.2045616, 112.7438748] # ujung_timur
+# init_location = [-7.2053031, 112.7401368] # ujung_barat
+# init_location = [-7.2038721, 112.7426021] # Parkiran Timur
+# init_location = [-7.2039852, 112.7419212] # Parkiran Barat
+# init_location = [-7.2028193, 112.7422065] # ECW Utara
+# init_location = [-7.2036017, 112.7423198] # ECW Selatan
+# init_location = [-7.241604106065979, 112.72989220580334] # CASA Barat
+# init_location = [-7.241982128999947, 112.73133411522784] # CASA Timur
+# init_location = [-7.242041840958237, 112.73124765628464]  # CASA DALAM
